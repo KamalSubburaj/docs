@@ -112,7 +112,7 @@ data() {
   return {
     objectOfAttrs: {
       id: 'container',
-      class: 'wrapper'
+      class: 'wrapper'\
     }
   }
 }
